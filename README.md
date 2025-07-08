@@ -1,1 +1,1 @@
- pwave python library inspired by the audio visualizer using hashes used in CS50P 
+fluo - a AudioVisualizer python library and cli program
